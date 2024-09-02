@@ -9,8 +9,8 @@ Inversão de string: Implementação de uma função para inverter uma string se
 Objetivo
 O objetivo deste repositório é demonstrar minha capacidade de programar em Python e minha aptidão para resolver problemas relacionados à análise de dados e manipulação de estruturas de dados. Este trabalho exemplifica a minha dedicação ao aprendizado contínuo e ao desenvolvimento de habilidades técnicas que são fundamentais para minha carreira em Tecnologia da Informação.
 
-Tecnologias Utilizadas
-Linguagem: Python
-Ferramentas: VS Code, Jupyter Notebook
-Como Executar
-Para executar os códigos presentes neste repositório, siga os passos abaixo:
+- Tecnologias Utilizadas
+- Linguagem: Python
+- Ferramentas: VS Code, Jupyter Notebook
+- Como Executar
+- Para executar os códigos presentes neste repositório, siga os passos abaixo:
